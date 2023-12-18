@@ -1,0 +1,17 @@
+export const colors={
+    blueShade1:'#0059b3', 
+    blueShade2:'#0066ff', 
+    blueShade3:'#ecf2f9',
+    blueShade4:'#d1e0e0',
+    white:'#ffffff',
+    red:'#FC4F00',
+    black:'#000000',
+    lightWhite:'#dddddd',
+    greyShade4:'#333333',
+    lightGrey:'#d3d3d3',
+    offGrey:'#5E716A',
+    offGreen:'#cccccc',
+    greyShade1:'#999999',
+    greyShade2:'#737373',
+    greyShade3:'#666666',
+};
